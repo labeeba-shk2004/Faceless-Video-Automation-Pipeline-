@@ -1,5 +1,3 @@
-## README.md
-
 # Educational Video Generator
 
 This project automates the creation of short educational videos based on a user-provided topic. It leverages several AI and multimedia libraries to generate a script, voiceover, visual scenes, and then compile them into a final video.
